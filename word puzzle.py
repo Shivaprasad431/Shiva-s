@@ -35,7 +35,7 @@ for i in range(5):
         i+=1  
         q.append(score)
        
-print("Total Score is",sum(q))    
+print("Net Score",sum(q))    
     
     
     
